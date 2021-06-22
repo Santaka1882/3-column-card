@@ -1,0 +1,6 @@
+.card__icon_orange {
+  background: url(./icons/icon-sedans.svg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

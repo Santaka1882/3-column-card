@@ -1,0 +1,6 @@
+.card__icon_dark-cyan {
+  background: url(./icons/icon-suvs.svg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

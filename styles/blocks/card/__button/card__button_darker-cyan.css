@@ -1,0 +1,8 @@
+.card__button_darker-cyan {
+  color: var(--Darker_cyan);
+}
+
+.card__button_darker-cyan:hover {
+  background-color: var(--Darker_cyan);
+  color: var(--Very_light_gray);
+}

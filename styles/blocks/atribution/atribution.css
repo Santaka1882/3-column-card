@@ -1,0 +1,9 @@
+.attribution {
+  text-align: center;
+  color: black;
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+.attribution a {
+  color: var(--Bright_orange);
+}

@@ -1,0 +1,8 @@
+.card__button_orange {
+  color: var(--Bright_orange);
+}
+
+.card__button_orange:hover {
+  background-color: var(--Bright_orange);
+  color: var(--Very_light_gray);
+}
