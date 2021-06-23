@@ -7,4 +7,11 @@
   font-family: 'Lexend Deca', sans-serif;
   font-size: 1.6rem;
   cursor: pointer;
+  outline: none;
+}
+
+@media (min-width: 1440px) {
+  .card__button {
+    margin-top: 55px;
+  }
 }

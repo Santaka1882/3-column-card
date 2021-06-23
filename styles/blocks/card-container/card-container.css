@@ -6,3 +6,11 @@
   border-radius: 5px;
   overflow: hidden;
 }
+
+@media (min-width: 1440px) {
+  .card-container {
+    flex-direction: row;
+    max-width: 920px;
+    max-height: 500px;
+  }
+}
