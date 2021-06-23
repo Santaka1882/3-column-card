@@ -7,3 +7,10 @@
 .attribution a {
   color: var(--Bright_orange);
 }
+
+@media (min-width: 1440px) {
+  .attribution {
+    position: absolute;
+    bottom: 20px;
+  }
+}
